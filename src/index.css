@@ -11,6 +11,15 @@
   * { -webkit-tap-highlight-color: transparent; }
   html { scroll-behavior: smooth; }
 
+  /* On desktop/laptop viewports the layout is tuned to read well at an
+     80% browser zoom — more of each section fits the screen without
+     content spilling past the fold. Scoped to lg+ only: phones and
+     tablets already size everything for their own viewport and don't
+     need (or want) a further zoom-out. */
+  @media (min-width: 1024px) {
+    html { zoom: 0.8; }
+  }
+
   /* Single light coastal-blue theme. Dark "curtain" panels (footer, CTA
      bands, photo overlays) are opt-in per section (.panel-dark) rather than
      a global colour mode — the inverse of how this file used to work. */
