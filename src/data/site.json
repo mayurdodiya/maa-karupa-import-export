@@ -1,0 +1,58 @@
+{
+  "name": "Maa Krupa Group",
+  "shortName": "Maa Krupa",
+  "vertical": "Our Businesses",
+  "legalName": "Maa Krupa Group",
+  "tagline": "Diverse Business Verticals",
+  "slogan": "Global trade, premium surfaces and clean living — one group, many strengths.",
+  "intro": "Maa Krupa Group runs several distinct businesses under one trust. From importing certified steel, machinery and building materials across global supply chains, to our tiles and surfaces range, to our own line of industrial and household cleaning products — each vertical is run with the same discipline for quality, paperwork and delivery.",
+  "foundedYear": 2008,
+  "logo": "/images/logo/ma-krupa-logo.png",
+  "logoMark": "/images/logo/ma-krupa-mark.png",
+  "phone": "+91 83473 37661",
+  "phoneRaw": "+918347337661",
+  "phoneAlt": "+91 261 249 8800",
+  "whatsapp": "918347337661",
+  "email": "trade@makrupagroup.com",
+  "address": {
+    "line1": "Maa Krupa House, 4th Floor",
+    "line2": "Ring Road, Udhna Darwaja",
+    "city": "Surat",
+    "state": "Gujarat",
+    "pincode": "395002",
+    "country": "India",
+    "full": "Maa Krupa House, 4th Floor, Ring Road, Udhna Darwaja, Surat, Gujarat 395002"
+  },
+  "hours": "Mon – Sat, 9:30 AM – 7:00 PM",
+  "gstin": "24AAGCM4471K1ZP",
+  "social": {
+    "instagram": "https://instagram.com/",
+    "facebook": "https://facebook.com/",
+    "linkedin": "https://linkedin.com/",
+    "youtube": "https://youtube.com/"
+  },
+  "stats": [
+    { "value": 18, "suffix": "+", "label": "Years in Business" },
+    { "value": 3, "suffix": "", "label": "Business Verticals" },
+    { "value": 420, "suffix": "+", "label": "Clients Served" },
+    { "value": 90, "suffix": "K MT", "label": "Cargo Handled" }
+  ],
+  "usp": [
+    "Three business verticals under one trusted group",
+    "Verified global sourcing & quality checks",
+    "In-house tiles & premium surfaces range",
+    "Own industrial & household cleaning line"
+  ],
+  "hero": {
+    "slides": [
+      "/images/businesses/import-export/cover.jpg",
+      "/videos/tiles/54c2bcbe4d5a50242d8a078aca9ee1df.jpg",
+      "/images/businesses/detergent/cover.jpg",
+      "/videos/tiles/2a30be5d64ab04aea2674f2a6151b9a1.jpg"
+    ]
+  },
+  "group": {
+    "name": "Maa Krupa Group",
+    "note": "Import Export, Tiles and Detergent are the business verticals of the Maa Krupa Group."
+  }
+}
